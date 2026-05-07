@@ -24,10 +24,10 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 ## Publications
 - **[Learning Neural Control Barrier Functions from Offline Data with Conservatism](https://arxiv.org/abs/2505.00908)** — Tabbara I, Sibai H. *ICRA 2026*
 - **[Designing Latent Safety Filters using Pre-Trained Vision Models](https://arxiv.org/abs/2509.14758)** — Tabbara et al. *ICRA 2026*
-- **Safe Control using Learned Safety Filters and Adaptive Conformal Inference** — Huriot S, Tabbara I, Sibai H. *L4DC 2026*
+- **[Safe Control using Learned Safety Filters and Adaptive Conformal Inference](https://arxiv.org/abs/2604.18482)** — Huriot S, Tabbara I, Sibai H. *L4DC 2026*
 - **[Computing Sound and Accurate Upper and Lower Bounds on Hamilton-Jacobi Reachability Value Functions](https://arxiv.org/abs/2511.15238)** — Tabbara et al. *arXiv:2511.15238*
 - **[Statistically Assuring Safety of Control Systems using Ensembles of Safety Filters and Conformal Prediction](https://arxiv.org/abs/2511.07899)** — Tabbara et al. *arXiv:2511.07899*
-- **Reducing Barriers in Analyzing Eye Tracking Data** — Atweh, Tabbara et al. *IEEE SIEDS 2024*
+- **[Reducing Barriers in Analyzing Eye Tracking Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10534671)** — Atweh, Tabbara et al. *IEEE SIEDS 2024*
 
 ---
 
