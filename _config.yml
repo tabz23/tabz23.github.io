@@ -15,7 +15,7 @@ name                     : &name "Ihab Tabbara"
 description              : &description "Ihab Tabbara - PhD student in Computer Science at Washington University in St. Louis. Research on trustworthy autonomy, formal methods, and safe control for ML-enabled systems."
 url                      : "https://tabz23.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tabz23/ihabtabbara.github.io"
+repository               : "tabz23/tabz23.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
