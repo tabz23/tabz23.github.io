@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on trustworthy autonomy, specifically on formal methods for ML-enabled systems and robots. Previously, I had completed my undergrad in Computer and Communication Engineering at the American University of Beirut. 
+Hey! I started my PhD in Computer Science and Engineering at Washington University in St. Louis in 2024. My research focuses on trustworthy autonomy, specifically formal methods and safe reinforcement learning for robotic applications. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
 
 
 
