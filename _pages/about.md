@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 description: "Ihab Tabbara — PhD student in Computer Science at Washington University in St. Louis. Research on trustworthy autonomy, formal methods, and safe control for ML-enabled systems and robots."
 redirect_from: 
