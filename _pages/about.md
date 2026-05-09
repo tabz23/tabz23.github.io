@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a second year PhD student in Computer Science and Engineering at Washington University. My research focuses on trustworthy autonomy, specifically formal methods and machine learning for safe autonomous robots. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
+Hey! I'm currently a second year PhD student in Computer Science and Engineering at Washington University. My research focuses on trustworthy autonomy, specifically formal methods and machine learning for safe robotics. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
 
 
 
@@ -30,8 +30,9 @@ Hey! I'm currently a second year PhD student in Computer Science and Engineering
 ## Teaching Experience
 
 -  **Electronics and microprocessors** (ECE 410L, AUB)
--  **Control Systems Lab** (ECE 460L, AUB) 
----
+-  **Control Systems Lab** (ECE 460L, AUB)
+
+<hr>
 
 Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes and document plants/mushroom/animals I encounter. I love hydroponics and I cultivate my own vegetables and herbs. During the rest of my free time, I play video games and read manga/comics/science fiction books.
 
