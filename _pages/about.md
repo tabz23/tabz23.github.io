@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I started my PhD in Computer Science and Engineering at Washington University in St. Louis in 2024. My research focuses on trustworthy autonomy, specifically formal methods and safe reinforcement learning for robotic applications. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
+Hey! I'm currently a second year PhD student in Computer Science and Engineering at Washington University. My research focuses on trustworthy autonomy, specifically formal methods and machine learning for safe autonomous robots. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
 
 
 
@@ -16,10 +16,7 @@ Hey! I started my PhD in Computer Science and Engineering at Washington Universi
 - Developed C++ infrastructure for financial pricing and risk analytics  
 - Served as Scrum Master—led sprint planning, retrospectives, and team coordination
 
-## Teaching Experience
 
--  **Electronics and microprocessors** (ECE 410L, AUB)
--  **Control Systems Lab** (ECE 460L, AUB) 
 
 ## Publications
 - **[Learning Neural Control Barrier Functions from Offline Data with Conservatism](https://arxiv.org/abs/2505.00908)** — Tabbara I, Sibai H. *ICRA 2026*
@@ -29,9 +26,14 @@ Hey! I started my PhD in Computer Science and Engineering at Washington Universi
 - **[Statistically Assuring Safety of Control Systems using Ensembles of Safety Filters and Conformal Prediction](https://arxiv.org/abs/2511.07899)** — Tabbara et al. *arXiv:2511.07899*
 - **[Reducing Barriers in Analyzing Eye Tracking Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10534671)** — Atweh, Tabbara et al. *IEEE SIEDS 2024*
 
+
+## Teaching Experience
+
+-  **Electronics and microprocessors** (ECE 410L, AUB)
+-  **Control Systems Lab** (ECE 460L, AUB) 
 ---
 
-Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. I also enjoy video/board games.
+Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes and document plants/mushroom/animals I encounter. I love hydroponics and I cultivate my own vegetables and herbs. During the rest of my free time, I play video games and read manga/comics/science fiction books.
 
 <p align="center">
   <img src="{{ '/assets/files/4.jpeg' | relative_url }}" alt="Photo 1" width="45%" style="margin-right: 2%;">
