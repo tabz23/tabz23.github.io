@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a second year PhD student in Computer Science and Engineering at Washington University. My research focuses on trustworthy autonomy, specifically formal methods and machine learning for safe robotics. Previously, I completed my undergraduate degree in Computer and Communication Engineering at American University of Beirut.
+Hey! I'm currently a second year PhD student in Computer Science and Engineering at Washington University. My research focuses on trustworthy autonomy, specifically formal methods and machine learning for safe robotics. Previously, I completed my undergraduate degree in Computer and Communication Engineering at the American University of Beirut (AUB).
 
 
 
